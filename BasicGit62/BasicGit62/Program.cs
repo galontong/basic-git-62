@@ -17,5 +17,25 @@ namespace BasicGit62
             Console.WriteLine("Hello World! from Deki Setiawan 3");
             Console.WriteLine("Hello World! from Deki Setiawan 4");
         }
+
+        public static void Deki()
+        {
+
+        }
+
+        public static void Rizka()
+        {
+
+        }
+
+        public static void Arya()
+        {
+
+        }
+
+        public static void Amel()
+        {
+
+        }
     }
 }

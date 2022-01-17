@@ -13,6 +13,10 @@ namespace BasicGit62
             Console.WriteLine("Hello World! from Deki Setiawan"); 
             Console.WriteLine("Hello World! from Deki Setiawan 1");
             Console.WriteLine("Hello World! from Deki Setiawan 2");
+
+
+            Console.WriteLine("Hello World! from Deki Setiawan 3");
+            Console.WriteLine("Hello World! from Deki Setiawan 4");
         }
     }
 }

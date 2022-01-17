@@ -35,7 +35,10 @@ namespace BasicGit62
 
         public static void Amel()
         {
-
+            Console.WriteLine("Hello World! from Amelia Isnanda");
+            Console.WriteLine("Hello World! from Amelia Isnanda 1");
+            Console.WriteLine("Hello World! from Amelia Isnanda 2");
+            
         }
     }
 }

@@ -20,7 +20,7 @@ namespace BasicGit62
 
         public static void Deki()
         {
-
+            Console.WriteLine("DEKI SETIAWAN");
         }
 
         public static void Rizka()

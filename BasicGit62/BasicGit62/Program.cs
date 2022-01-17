@@ -30,7 +30,7 @@ namespace BasicGit62
 
         public static void Arya()
         {
-
+            Console.WriteLine("Hello, my name is Arya! Nice to meet you!");
         }
 
         public static void Amel()
